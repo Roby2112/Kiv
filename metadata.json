@@ -1,0 +1,6 @@
+{
+  "name": "Kyiv Perimeter - Independence Square Threat & Strike Monitor",
+  "description": "Nightly strike intelligence briefing and real-time 10-mile threat perimeter alerts for Independence Square (Maidan), Kyiv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
